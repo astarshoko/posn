@@ -1,3 +1,2 @@
-# practice
-sapphire
-บางทีกุก้เขียนngoเกินTT
+# ps.
+บางทีฉันก็เขียนngoเกินไป
